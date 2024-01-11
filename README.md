@@ -8,8 +8,9 @@ This [issues-only](https://docs.github.com/en/repositories/creating-and-managing
 
 Please use the [GitHub new issue form](https://github.com/getappmap/appmap-issues/issues) for reporting any bugs or feature requests.
 
-When it comes to reporting issues or requesting features, more information is better. Anything that will help us understand and effectively replicate issues is good information to include.
-Here are some things you may want to include when you open an issue.
+When it comes to reporting issues or requesting features, more information is better. Anything that will help us understand and effectively replicate issues is good information to include.  
+
+Here are some things you may want to include when you open an issue:
 
 * **A good title.** Be Concise and Descriptive. Help us care.
 * **A descriptive overview of the issue.** A clear and detailed explanation of what you were trying to do, and what prevented that from happening.
